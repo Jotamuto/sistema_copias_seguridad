@@ -5,7 +5,7 @@
 - **Nivel 2:** NAS
 - **Nivel 3:** PC-Remoto
 
-![Esquema](adjuntos/ESQUEMA%202.png)
+![Esquema](Adjuntos/ESQUEMA%202.png)
 
 
 En el primer nivel, tenemos 3 host con sistemas operativos diferentes. Hemos optado por usar para los Backups FreeFileSync, que es un programa gratuito y open source, ya que podemos usarlo sin problema en los 3 sistemas operativos y pensamos que su gestión y mantenimiento nos ahorrarían trabajo y haría un ecosistema mucho mas limpio. También nos permite hacer los Backups directamente a otra ubicación de la red.
